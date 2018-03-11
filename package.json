@@ -1,0 +1,31 @@
+{
+  "name": "trees",
+  "version": "1.0.0",
+  "description": "trees in js for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refactorized/trees.git"
+  },
+  "keywords": [
+    "trees"
+  ],
+  "author": "refactorized who is adam tolley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refactorized/trees/issues"
+  },
+  "homepage": "https://github.com/refactorized/trees#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "node-watch": "^0.5.7",
+    "repl.history": "^0.1.4",
+    "require-reload": "^0.2.2"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
